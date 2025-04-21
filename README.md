@@ -13,3 +13,10 @@ Projeto foi desenvolvido para disciplina de Ciência de Dados do curso da Alura.
 :heavy_check_mark: Através de informações coletadas dos banco de dados, calculamos o faturamento, categorias mais vendidas, avaliações dos clientes, produtos mais vendidos e frete médio de cada loja.
 
 
+## Ferramentas de desenvolvimento
+
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
+
+![32px-Google_Colaboratory_SVG_Logo svg](https://github.com/user-attachments/assets/a82d6509-d5a9-4467-9a37-3f5ad5da68fb)
+
