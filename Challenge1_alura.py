@@ -11,7 +11,7 @@ loja3 = pd.read_csv(url3)
 loja4 = pd.read_csv(url4)
 
 loja.head()
-#
+
 # Faturamento por loja
 faturamento_loja = loja['Preço'].sum()
 faturamento_loja2 = loja2['Preço'].sum()
